@@ -11,3 +11,10 @@ end
 
 # do not clear console before running tests
 Autotest::Growl::clear_terminal = false
+
+# run integration testing
+Autotest.add_hook :initialize do |autotest|
+	autotest.add_mapping(%r%^spec/(requests)/.*rb$%) do|filename, _|
+		filename
+	end
+end
