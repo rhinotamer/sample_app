@@ -1,0 +1,47 @@
+commit 0184498076e4fefc138102443f1573b4f73c72ff
+Author: Nick Johnson <nichjohn28@gmail.com>
+Date:   Fri Feb 10 23:36:02 2012 -0800
+
+    Finished first cut of the User model
+
+commit 02f38d17fe1fa5101a1c175c5eae0ef1af7869c3
+Author: Nick Johnson <nichjohn28@gmail.com>
+Date:   Sat Feb 4 20:30:11 2012 -0800
+
+    Finished layout and routes
+
+commit 4db6936c938580f3f667723af2922e5c4736a9b8
+Author: Nick Johnson <nichjohn28@gmail.com>
+Date:   Sat Feb 4 19:09:19 2012 -0800
+
+    Removed default Rails page
+
+commit f97fe5a2e28772e72db5ae52644e5d1f62edeffd
+Author: Nick Johnson <nichjohn28@gmail.com>
+Date:   Fri Jan 27 22:40:46 2012 -0800
+
+    Done with static pages
+
+commit d838c9f86011d8379829510a658c5620f7972aca
+Author: Nick Johnson <nichjohn28@gmail.com>
+Date:   Sun Jan 22 00:53:10 2012 -0800
+
+    Added a Pages controller
+
+commit 715c49105a9f98a6c08ec937070f6ed06fb4ea09
+Author: Nick Johnson <nichjohn28@gmail.com>
+Date:   Sat Jan 21 23:56:50 2012 -0800
+
+    Added a Pages controller
+
+commit 1313be36dbe7d96551a280c3b947030c29ecef12
+Author: Nick Johnson <nichjohn28@gmail.com>
+Date:   Sat Jan 21 19:54:57 2012 -0800
+
+    Improved the README file
+
+commit a04070d66b6bd429c055b6555c51f6de26a99ffa
+Author: Nick Johnson <nichjohn28@gmail.com>
+Date:   Sat Jan 21 19:51:11 2012 -0800
+
+    Initial commit
